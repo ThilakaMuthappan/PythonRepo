@@ -1,2 +1,2 @@
-AddStringToListAPI.py
-AddStringToListUI.py
+Python_Workspace/AddStringToListAPI.py
+Python_Workspace/AddStringToListUI.py
