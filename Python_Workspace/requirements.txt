@@ -1,2 +1,4 @@
-Python_Workspace/AddStringToListAPI.py
-Python_Workspace/AddStringToListUI.py
+altair
+pandas
+streamlit
+flask
